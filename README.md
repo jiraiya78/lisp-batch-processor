@@ -1,4 +1,3 @@
-```markdown
 # Lisp Batch Processor
 
 Lisp Batch Processor is a simple yet powerful tool crafted for batch processing of DWG files using AutoCAD alongside user-defined Lisp scripts. This is my first Python project—indeed, I had zero Python knowledge before starting this project and still know almost zero after its completion! :p
