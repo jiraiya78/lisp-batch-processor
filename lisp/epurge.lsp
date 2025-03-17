@@ -1,0 +1,6 @@
+(defun c:epurge()
+  (command "-purge" "b" "*" "n")  
+  (prompt "purge completed")
+ (princ)
+ ) 
+ (c:epurge)
